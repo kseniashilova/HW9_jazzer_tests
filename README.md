@@ -6,6 +6,6 @@ exception.java - файлы Reproducer'ы.
 Также отчем в формате doc и pdf.   
 
 
-JavaplexHW - тестирование библиотеки Javaplex.  
+JavaplexHW - тестирование библиотеки Javaplex (https://github.com/appliedtopology/javaplex).  
 В отчетах ( в этой же папке) описаны методы, которые были протестированы, а три файла .java - это target class для запуска juzzer (лоя трех методов соответственно).   
 На двух из трех методов нашлась ошибка.  
